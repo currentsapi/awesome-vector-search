@@ -67,6 +67,7 @@
 
 ### Cloud Service
 
+- [Azure AI Search - Leading information retrieval and search platform for RAG](https://azure.microsoft.com/products/ai-services/ai-search)
 - [Epsilla Cloud - The fully managed serverless vector database with 10X faster, cheaper and better.](https://cloud.epsilla.com)
 - [DataStax Astra Vector - Multi-cloud, serverless vector DBaaS](https://www.datastax.com/products/vector-search)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
