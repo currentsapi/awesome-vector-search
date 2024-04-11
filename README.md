@@ -64,6 +64,7 @@
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 - [Golang vector stores collection - Chroma, PGVector interfaces](https://github.com/urjitbhatia/vectorstores)
 - [Scalable Vector Search (SVS) - A performance library for vector similarity search](https://github.com/IntelLabs/ScalableVectorSearch)
+- [OasysDB - A lightweight embedded vector database with HNSW indexing written in Rust](https://github.com/oasysai/oasysdb)
 
 ### Cloud Service
 
