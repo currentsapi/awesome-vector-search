@@ -30,6 +30,7 @@
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) 
 - [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
+- [Denser Retriever - An enterprise-grade RAG designed to streamline AI integration](https://github.com/denser-org/denser-retriever) 
 
 ### Library
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
@@ -74,6 +75,7 @@
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
+- [Denser Retriever - An enterprise-grade RAG designed to streamline AI integration](https://denser.ai) 
 
 ### Research Papers
 
